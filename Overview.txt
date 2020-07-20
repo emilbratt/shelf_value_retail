@@ -1,0 +1,9 @@
+I made Python scripts for creating shelf_value barcodes and to importing shelf
+values into our retail stores database.
+It is by far quicker and more convenient than bringing all items to the counter, scan one item
+at a time and manually type in the shelf value on our POS-system.
+
+Feel free to use, adjust or whatever suits your usecase.
+
+
+Emil B. Børsting
