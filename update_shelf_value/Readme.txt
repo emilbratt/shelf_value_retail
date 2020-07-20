@@ -1,5 +1,5 @@
 Written: 20.07.2020 Emil B. Børsting
-This script is meant to run on Raspberry Pi. Only tested in Pi 3B.
+This script is meant to run on Raspberry Pi. Only tested on Pi 3B.
 
 Keep in mind that this script is used for our retail store
 that uses MSSQL server with our tables and columns and the
