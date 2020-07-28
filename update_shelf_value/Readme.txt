@@ -29,9 +29,7 @@ sudo apt install freetds-dev
 sudo apt install tdsodbc
 sudo apt install freetds-bin
 sudo apt install python3-pip
-pip3 install --user pyodbc
-pip3 install --user gpiozero
-pip3 install --user RPi.GPIO
+pip3 install -r requirements.txt
 
 
 6. Add at bottom of FreeTDS conf file:
